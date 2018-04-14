@@ -1,0 +1,75 @@
+{
+	"header":{
+		"timestamp":1572472,
+		"version":1,
+	},
+	"package_id":1,
+	"title":"Kerala 3days 4 nights",
+	"price":,
+	"currency":"INR",
+	"Itinerary": "summary",
+	"days":,
+	"nights":,
+	"tripHighlights": [],
+	"specificDates":true,
+	"availableDates":[{
+		"to":12178423,
+		"from":18981888,
+	}],
+	"images":[],
+	"Inclusions":[//per city,
+		{
+		"city":,
+		"hotel": [{
+			"name":,
+			"star":,
+			"url":,
+			"rooms":[{
+						"title": "adult/couple",
+						"hotelName":,
+						"url":,
+						"personCount":"1/2/3/4",
+						"adult_count":,
+						"child_count":,
+						"price":,
+						"roomtype":"delux",
+						"recommended":true
+				}],
+			"breakfast":true,
+			"lunch":,
+			"dinner":}]
+		}
+	],
+	"OtherInclusions":[
+		"-Multi cuisine dining facilities ",
+		"-All meals (Starting from Day 01 Lunch till Day 11 Breakfast) ",
+		"-KedarNath Yatra by Helicopter  ",
+		"-Yoga session every morning ",
+	],
+	"journey_details":[{
+		"multipleSourceAvailable":,
+		"day":1,
+		"source":,
+		"destination":,
+		"journy_through":[{
+			"journeyBy":"flight/bus/car",
+			"airways":"Jet-Airways",
+			"trainNumber":"",
+			"class":"",
+			"departure":,
+			"arrival":,
+			"price":,
+			"inclusives":["AC car", "4 seater", "meals provided"],
+		}],
+	}],
+	"dayWiseInventory":[
+		{
+			"imageUrl":,
+			"mainAttraction":,
+			"detailDescription":,
+		}
+	],
+	"discount":"5%",
+	"cashback":"200",
+
+}
